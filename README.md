@@ -1,3 +1,9 @@
+## Overall
+![image](https://github.com/Leekyliu/Superleekyo/blob/master/src/main/resources/%E6%88%AA%E5%B1%8F2019-11-15%E4%B8%8B%E5%8D%887.13.15.png)
+
+![image](https://github.com/Leekyliu/Superleekyo/blob/master/src/main/resources/%E6%88%AA%E5%B1%8F2019-11-15%E4%B8%8B%E5%8D%887.13.48.png)
+
+![image](https://github.com/Leekyliu/Superleekyo/blob/master/src/main/resources/%E6%88%AA%E5%B1%8F2019-11-15%E4%B8%8B%E5%8D%887.14.34.png)
 ### Coding Style
 <a href="https://oracle.com/technetwork/java/codeconventions-150003.pdf">Oracle</a>
 
